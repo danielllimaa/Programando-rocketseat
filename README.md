@@ -13,20 +13,7 @@ Este repositório é mais do que apenas um espaço para códigos; é um reflexo 
 ### Estrutura do Repositório
 
 - **Desafios:** Uma pasta dedicada a cada desafio proposto no curso.
-  - `Desafio prático - Local Turístico/` - [Descrição do desafio 1]
- 
-  
 - **Projetos:** Uma pasta dedicada aos projetos desenvolvidos em aula.
-  - `Página de Receita/` - Um projeto onde foram aplicados conceitos de estrutura de HTML, HTML semântico e estilização com CSS. Este projeto visou criar uma apresentação visualmente atraente e funcional.
-
-## Aprendizados Até Agora 💡
-
-Aqui estão algumas das lições incríveis que já absorvi nesta jornada:
-- **HTML Semântico:** Compreensão de como usar tags HTML para estruturar conteúdo de maneira significativa.
-- **Formulários:** Criação e validação de formulários, utilizando diferentes tipos de entradas.
-- **CSS Flexbox e Grid:** Aplicação de layouts responsivos usando Flexbox e CSS Grid para organizar elementos na página.
-- **Estilização de Componentes:** Uso de seletores, propriedades e unidades para estilizar componentes de forma eficiente e criativa.
-- **Acessibilidade:** Princípios básicos de acessibilidade na web, garantindo que todos os usuários possam interagir com as páginas que crio.
 
 ## Vamos Juntos! 🤝
 
