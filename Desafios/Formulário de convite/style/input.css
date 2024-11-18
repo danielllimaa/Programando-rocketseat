@@ -1,0 +1,16 @@
+input, textarea, select, fieldset {
+  appearance: none;
+  width: 100%;  
+  padding: 0.8125rem 1rem ;
+
+  border: 2px solid transparent;
+  border-radius: .5rem;
+  outline: 1px solid var(----input---input-placeholder);
+
+}
+
+label {
+  font:var(--text-heading);
+  display: block;
+  margin-bottom: .75rem;
+}

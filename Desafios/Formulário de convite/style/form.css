@@ -1,0 +1,22 @@
+
+form {
+  margin-top: 2.5rem;
+}
+
+fieldset {
+  border: none;
+
+  display: grid;
+  gap: 1.5rem;
+}
+
+
+legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.875rem;
+    
+  font: var(--heading-sm);
+  color: var(--text-heading);
+  }

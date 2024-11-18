@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fomulário de convite</title>
+  <link rel="stylesheet" href="style/index.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&family=Leckerli+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app">
+    <aside>
+      <header>
+        <div class="logo">
+          <img src="assets/icons/Logo.svg" alt="">
+        </div>
+        <h1>Festivite</h1>
+        <h3>Crie um convite digital para o seu evento</h3>
+      </header>
+    </aside>
+
+    <main>
+      <div class="main-container">
+      <h2>Crie seu convite</h2>
+      <form action="" method="post" enctype="multipart/form-data" ></form>
+      <fieldset>
+        
+        <legend>
+          <img src="assets/icons/calendar.svg" alt="">
+          <span>Sobre o evento</span>
+        </legend>
+
+        <div class="input-wrapper">
+        <label for="event-name">Título</label>
+        <input type="text" 
+        id="event-name" 
+        name="event-name"
+        placeholder="Nome do evento">
+      </div>
+
+      <div class="flex">
+      <div class="input-wrapper">
+        <label for="data-time-start">Início</label>
+        <input type="date" 
+        id="data-time-start" 
+        name="data-time-start"
+        placeholder="DD/MM/AAAA, --:--">
+      </div>
+
+      <div class="input-wrapper">
+        <label for="data-time-end">Fim</label> 
+        <input type="date" 
+        id="data-time-end" 
+        name="data-time-end"
+        placeholder="DD/MM/AAAA, --:--">
+      </div>
+    </div>
+
+
+    <div class="flex"> 
+      <div class="input-wrapper">
+         <label for="tipo">Tipo</label>
+         <select name="tipo" id="tipo">
+          <option value="presencial">Presencial</option>
+          <option value="online">Oline</option>
+        </select>
+    
+      </div>
+
+      <div class="input-wrapper">
+        <label for="local">Local</label> 
+        <input type="text" 
+        id="local" 
+        name="local"
+        placeholder="Link ou endereço">
+      </div>
+    </div>
+
+    <div class="input-wrapper">
+      <label for="local">Descrição</label> 
+     <textarea 
+     name="description" 
+     id="description"
+     cols="30"
+     rows="5">
+     </textarea>
+    </div>
+    
+
+  
+      </fieldset>
+    </div>
+    </main>
+  </div>
+  
+</body>
+</html>
