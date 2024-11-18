@@ -42,6 +42,8 @@ A estrutura de pastas do projeto é organizada para facilitar a manutenção e o
 - **Estilização Modular com CSS**: Separação dos estilos em múltiplos arquivos CSS, permitindo melhor organização e manutenibilidade.
 - **Acessibilidade e Usabilidade**: Uso de descrições (atributo `alt`) em todas as imagens para melhorar a experiência de usuários com deficiência visual.
 
+## Visualização
+Para visualizar o projeto, abra o arquivo `index.html` em um navegador. Certifique-se de que todos os arquivos CSS e imagens estão no local correto para que o layout seja exibido corretamente.
 
 ## Licença 📜
 
